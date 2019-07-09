@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="192px" height="333px" viewBox="0 0 192 333" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>编组 6</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-774.000000, -347.000000)">
+            <g id="编组-2复制-4" transform="translate(750.000000, 315.000000)">
+                <g id="编组-6" transform="translate(24.000000, 26.000000)">
+                    <g id="编组-4" fill="#EFEFEF" font-family="TimesNewRomanPSMT, Times New Roman" font-size="28" font-weight="normal" line-spacing="28">
+                        <g id="编组">
+                            <text id="K">
+                                <tspan x="0" y="25">K</tspan>
+                            </text>
+                        </g>
+                        <g id="编组复制-3" transform="translate(181.500000, 331.000000) scale(-1, -1) translate(-181.500000, -331.000000) translate(171.000000, 317.000000)">
+                            <text id="K">
+                                <tspan x="0" y="25">K</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <polygon id="矩形" fill="#6A686C" transform="translate(181.928932, 300.428932) rotate(45.000000) translate(-181.928932, -300.428932) " points="184.088913 294.075379 188.282486 294.782486 188.282486 306.782486 176.282486 306.782486 175.575379 302.553204"></polygon>
+                    <polygon id="矩形" fill="#6A686C" transform="translate(10.192388, 43.692388) scale(1, -1) rotate(45.000000) translate(-10.192388, -43.692388) " points="12.3523686 37.3388348 16.5459415 38.0459415 16.5459415 50.0459415 4.54594155 50.0459415 3.83883476 45.8166595"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

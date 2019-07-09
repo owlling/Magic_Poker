@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="192px" height="333px" viewBox="0 0 192 333" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>编组 5</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-1074.000000, -349.000000)">
+            <g id="编组-2复制-3" transform="translate(1050.000000, 315.000000)">
+                <g id="编组-5" transform="translate(24.000000, 28.000000)">
+                    <g id="编组">
+                        <text id="A" font-family="TimesNewRomanPSMT, Times New Roman" font-size="28" font-weight="normal" line-spacing="28" fill="#EFEFEF">
+                            <tspan x="0" y="25">A</tspan>
+                        </text>
+                        <rect id="矩形" fill="#FB5352" transform="translate(10.485281, 44.485281) rotate(45.000000) translate(-10.485281, -44.485281) " x="4.48528137" y="38.4852814" width="12" height="12"></rect>
+                    </g>
+                    <g id="编组复制-2" transform="translate(181.500000, 318.500000) scale(-1, -1) translate(-181.500000, -318.500000) translate(171.000000, 292.000000)">
+                        <text id="A" font-family="TimesNewRomanPSMT, Times New Roman" font-size="28" font-weight="normal" fill="#EFEFEF">
+                            <tspan x="0" y="25">A</tspan>
+                        </text>
+                        <rect id="矩形" fill="#FB5352" transform="translate(10.485281, 44.485281) rotate(45.000000) translate(-10.485281, -44.485281) " x="4.48528137" y="38.4852814" width="12" height="12"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
