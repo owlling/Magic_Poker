@@ -6,6 +6,8 @@
 
 ![blockchain](https://cdn.dribbble.com/users/1048647/screenshots/6754803/magic_poker.gif "Magic_Poker")
 
+#### CSS
+
 ```
 .card .list{
 	width: 240px;
