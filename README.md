@@ -1,8 +1,8 @@
 # Magic_Poker
 
-#### Magi Poker,Nothing, Try card effect with CSS.
+##### Magi Poker,Nothing, Try card effect with CSS.
 
-## Here：[Codepen](https://codepen.io/owlling/pen/Bgvawv) ｜ [Dribbble](https://dribbble.com/shots/6754803-Magic-Poker)
+### Here：[Codepen](https://codepen.io/owlling/pen/Bgvawv) ｜ [Dribbble](https://dribbble.com/shots/6754803-Magic-Poker)
 
 
 ![blockchain](https://cdn.dribbble.com/users/1048647/screenshots/6754803/magic_poker.gif "Magic_Poker")
@@ -21,7 +21,6 @@
 	border:2px solid #464648;
 	box-shadow: 0px 30px 50px -20px rgba(0,0,0,0.2);
 	border-radius: 20px;
-
 }
 .card .list:hover{
 	border-top: 30px solid #464648;
