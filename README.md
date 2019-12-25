@@ -1,14 +1,14 @@
 # Magic_Poker
 
 ##### Magi Poker,Nothing, Try card effect with CSS.
-
+<br/>
 ### Here：[Codepen](https://codepen.io/owlling/pen/Bgvawv) ｜ [Dribbble](https://dribbble.com/shots/6754803-Magic-Poker)
-
-
+<br/>
+<br/>
 ![blockchain](https://cdn.dribbble.com/users/1048647/screenshots/6754803/magic_poker.gif "Magic_Poker")
-
-
-(```)
+<br/>
+<br/>
+```
 .card .list{
 	width: 240px;
 	height: 400px;
@@ -27,6 +27,7 @@
 	box-shadow: 0px 25px 40px -10px rgba(0,0,0,0.25);
 	transform: translateY(-6px);
 }
-(```)
-
+```
+<br/>
+<br/>
 #### THX
