@@ -4,7 +4,6 @@
 <br>
 ### Here：[Codepen](https://codepen.io/owlling/pen/Bgvawv) ｜ [Dribbble](https://dribbble.com/shots/6754803-Magic-Poker)
 <br>
-
 ![blockchain](https://cdn.dribbble.com/users/1048647/screenshots/6754803/magic_poker.gif "Magic_Poker")
 <br>
 
@@ -29,5 +28,4 @@
 }
 ```
 
-<br>
 #### THX
